@@ -1,0 +1,1 @@
+print("You should load the model in setup.py which will be ran during the Docker build of your image.  The model should be stored in the /data directory, which you may claim as local to this microservice.")
