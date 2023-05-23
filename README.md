@@ -59,4 +59,4 @@ Based on the location of the model, you can load it on boot or when the first co
 
 ### Why a separate template for pytorch?
 
-The PyTorch dependency is a fairly heavy one.  It is nice to resue this image across systems.  The approach of creating a template specifically for this purpose also lets us experiment with features more important to AI services, which may later flow back to the mu-python-template.
+The PyTorch dependency is a fairly heavy one.  It is nice to reuse this image across systems.  The approach of creating a template specifically for this purpose also lets us experiment with features more important to AI services, which may later flow back to the mu-python-template.
